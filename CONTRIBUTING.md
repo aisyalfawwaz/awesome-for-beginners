@@ -19,6 +19,7 @@ Please ensure your pull request adheres to the following guidelines:
 - Maintainer confirmation is also required in case repository has more than one beginner-friendly-like label (e.g. `low-hanging-fruit` and `up-for-grabs`).
 - The contributed repository must be maintained, have an active community to be able to help newcomers and have issues with an appropriate label.
 - Links must be pointing directly to the repository, no tracking links allowed. This list is not for advertising purposes.
+-dont be hopeless and never surrender to become a programmer
 
 Thank you for your suggestions!
 
